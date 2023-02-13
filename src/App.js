@@ -1,9 +1,18 @@
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './App.css';
+import Nav from './Nav';
 
 function App() {
   return (
-    <div className="App">
-    </div>
+    <Router>
+      <Nav />
+      <Routes>
+        <Route path="/" />
+        <Route path="/details" />
+      </Routes>
+    </Router>
+
   );
 }
 
