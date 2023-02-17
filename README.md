@@ -1,8 +1,13 @@
 <a name="readme-top"></a>
 <div align="center">
 <img />
-  <img src="./src/assets/snap.png" alt="snapshhot" width="95%"  height="600px" />
-  <h1><b>Bookstore</b></h1>
+<div>
+<img src="./src/images/snap.png" alt="snapshot" width="50%"  height="800px" />
+ <img src="./src/images/Screenshot-Details.png" alt="snapshot" width="50%"  height="800px" />
+ </div>
+  <img src="./src/images/Screenshot-Detail-Desktop.png" alt="snapshot" width="95%"  height="600px" />
+ 
+  <h1><b>Crypto</b></h1>
 
 </div>
 
@@ -11,7 +16,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Bookstore ](#-Bookstore-)
+- [📖 Crypto ](#-Crypto-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -34,10 +39,9 @@
 
 # 📖 Crypto Web-app <a name="about-project"></a>
 
->  The Crypto Web-app is a website biulet with react and redux and it gives us a real time data on cryptocurrency:
-
-Display a list of Crypto,
-Find daily update,
+>  The Crypto Web-app is a website built-with react/redux and Bootstrap. It gives us a real time data on crypto currency:
+It display a list of Crypto.
+It also gives us name of Crypto, its image, average price, update on todays lowest price, and update on todays highest price, including its Algorithm.
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -68,7 +72,6 @@ Find daily update,
 
 #### 🔭 Future Features <a name="future-features"></a>
 
-- **Add Mobile version**
 - **Add Dark mode**
 <!-- LIVE DEMO -->
 
@@ -148,7 +151,7 @@ You can deploy this project using [Github Pages]()
 
 - GitHub: [@githubhandle](https://github.com/bernabasy)
 - Twitter: [@twitterhandle](https://twitter.com/@bernabasjosef)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bernabas-yosef-74b571186)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bernabas-yosef)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
