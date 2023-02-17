@@ -1,4 +1,55 @@
-.App {
-  text-align: center;
+.grid1 {
+  display: grid;
+  grid-template-columns: auto auto;
 }
 
+.m {
+  padding: 10%;
+}
+
+.nav {
+  height: 7vh;
+}
+
+.flex {
+  font-size: 2.5vh;
+  padding-bottom: 20px;
+}
+
+.h-min {
+  min-height: 1000px;
+}
+
+@media only screen and (min-width: 600px) {
+  .flex {
+    display: flex;
+    border: red;
+    flex-direction: row;
+    align-items: center;
+    line-height: 2;
+    font-size: 4vh;
+    margin: 0;
+    padding: 0;
+  }
+
+  .w {
+    width: 100%;
+    height: auto;
+  }
+
+  .font {
+    font-size: 5vh;
+  }
+
+  .nav {
+    height: 10vh;
+  }
+
+  .fonts {
+    font-size: 32px;
+  }
+
+  .pad {
+    margin-left: 60px;
+  }
+}
