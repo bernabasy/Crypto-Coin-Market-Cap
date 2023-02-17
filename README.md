@@ -2,8 +2,8 @@
 <div align="center">
 <img />
 <div>
-<img src="./src/Images/snap.png" alt="snapshot" width="50%"  height="800px" />
- <img src="./src/Images/Screenshot-Details.png" alt="snapshot" width="50%"  height="800px" />
+<img src="./src/Images/snap.png" alt="snapshot" width="50%"  height="650px" />
+ <img src="./src/Images/Screenshot-Details.png" alt="snapshot" width="50%"  height="650px" />
  </div>
   <img src="./src/Images/Screenshot-Detail-Desktop.png" alt="snapshot" width="95%"  height="600px" />
  
@@ -77,13 +77,13 @@ It also gives us name of Crypto, its image, average price, update on todays lowe
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- <a href="#" target="_blank">Live Demo Link</a>
+- <a href="#" target="_blank">[Live Demo Link](https://cryptocurrency-news.onrender.com)</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Project Presentation Video <a name="live-demo"></a>
 
-- 
+- [Project Presentation Link](https://www.loom.com/share/204221f6501e4d149570e3030e00c691)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
