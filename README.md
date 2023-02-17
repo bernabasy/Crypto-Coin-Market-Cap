@@ -179,8 +179,8 @@ If you like this project give me a star.
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-We would like to thank Microverse and our fellow micronauts.
+- I would like to thank [Creative Commons license of the design](https://creativecommons.org/licenses/by-nc/4.0/)
+- I would like to thank Microverse and our fellow micronauts.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
