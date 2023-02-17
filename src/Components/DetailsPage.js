@@ -39,13 +39,13 @@ const Details = () => {
             </p>
             <p>
               <span className="m-3 border border-primary ">
-                TODAYS Hights PRICE:
+                TODAYS HIGHEST PRICE:
               </span>
               {filter[0].highDay}
             </p>
             <div className="gap-5  border border-primary ">
               <span className="m-3 border border-primary ">
-                Algorithm:
+                ALGORITHM:
               </span>
               { filter[0].algo }
             </div>
