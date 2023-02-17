@@ -4,22 +4,26 @@ import { Provider } from 'react-redux';
 import './App.css';
 import store from './Redux/store';
 import Nav from './Components/Nav';
-import Models from './Components/Models';
+import Models from './Components/renderCrypto';
+import Details from './Components/DetailsPage';
 
-function App() {
-  return (
+const App = () => (
 
-    <Router>
-      <Provider store={store}>
+  <Router>
+    <Provider store={store}>
+      <div className=" bg-primary h-min">
         <Nav />
-        <Routes>
-          <Route path="/" element={<Models />} />
-          <Route path="/details" />
-        </Routes>
-      </Provider>
-    </Router>
+        <div className="m">
 
-  );
-}
+          <Routes>
+            <Route path="/" element={<Models />} />
+            <Route path="/:id" element={<Details />} />
+          </Routes>
+        </div>
+      </div>
+    </Provider>
+  </Router>
+
+);
 
 export default App;
