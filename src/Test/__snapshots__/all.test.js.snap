@@ -1,0 +1,98 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Nav component renders Crypto component 1`] = `
+<div
+  className="rounded-4 w-100 h-100 border border-dark d-flex justify-content-center"
+>
+  <div
+    className="w-100"
+  >
+    <p
+      className=" p-2 font text-light"
+    >
+       
+      <span>
+        Name:
+      </span>
+    </p>
+    <div
+      className="d-flex m-3 justify-content-center"
+    >
+      <img
+        alt="symbol"
+        className="images w-75"
+        src="https://www.cryptocompare.comnew "
+      />
+    </div>
+    <p />
+  </div>
+</div>
+`;
+
+exports[`Nav component renders Models component 1`] = `
+Array [
+  <form
+    className="w-100 mb-5 bg-secondary nav"
+  >
+    <input
+      aria-label="search"
+      className="input w-100 h-2"
+      onChange={[Function]}
+      placeholder=".....search you cryptos"
+      type="text"
+      value=""
+    />
+  </form>,
+  <div
+    className="bg-primary text-white"
+  >
+    <div
+      className="grid1"
+    />
+  </div>,
+]
+`;
+
+exports[`Nav component renders Nav component 1`] = `
+<nav
+  className="nav bg-warning"
+>
+  <ul
+    className="d-flex justify-content-between w-100 my-2 mx-0"
+  >
+    <li
+      className="fonts d-flex gap-2 list-unstyled"
+    >
+      <a
+        aria-current="page"
+        className="text-decoration-none active"
+        href="/"
+        onClick={[Function]}
+      >
+        <h3
+          className="fonts"
+        >
+           ⮌
+        </h3>
+      </a>
+      <h5
+        className="pl-3 mt-1 fonts pad"
+      >
+        Crypto Coin Market Cap
+      </h5>
+    </li>
+    <li
+      className="d-flex list-unstyled px-0"
+    >
+      <h1>
+        🎙
+      </h1>
+      <h1
+        className="px-2 font-weight-bold"
+      >
+        ☼
+      </h1>
+    </li>
+  </ul>
+</nav>
+`;
