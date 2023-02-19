@@ -2,10 +2,10 @@
 <div align="center">
 <img />
 <div>
-<img src="./src/Images/snap.png" alt="snapshot" width="50%"  height="650px" />
- <img src="./src/Images/Screenshot-Details.png" alt="snapshot" width="50%"  height="650px" />
+<img src="./src/Images/snap.png" alt="snapshot" width="50%"  height="450px" />
+ <img src="./src/Images/Screenshot-Details.png" alt="snapshot" width="50%"  height="450px" />
  </div>
-  <img src="./src/Images/Screenshot-Detail-Desktop.png" alt="snapshot" width="95%"  height="600px" />
+  <img src="./src/Images/Screenshot-Detail-Desktop.png" alt="snapshot" width="95%"  height="500px" />
  
   <h1><b>Crypto</b></h1>
 
