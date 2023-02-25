@@ -39,9 +39,9 @@
 
 # 📖 Crypto Web-app <a name="about-project"></a>
 
->  The Crypto Web-app is a website built-with react/redux and Bootstrap. It gives us a real time data on crypto currency:
+>  The Crypto Web-app is a website built-with react/redux and Bootstrap. It gives us a real time data on crypto currency.
 It display a list of Crypto.
-It also gives us name of Crypto, its image, average price, update on todays lowest price, and update on todays highest price, including its Algorithm.
+It also gives us name of Crypto, its image, average price, update on todays lowest price, and update on todays highest price including its Algorithm.
 
 
 ## 🛠 Built With <a name="built-with"></a>
