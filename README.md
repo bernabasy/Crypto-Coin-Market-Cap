@@ -2,8 +2,8 @@
 <div align="center">
 <img />
 <div>
-<img src="./src/Images/snap.png" alt="snapshot" width="50%"  height="450px" />
- <img src="./src/Images/Screenshot-Details.png" alt="snapshot" width="50%"  height="450px" />
+<img src="./src/Images/snap.png" alt="snapshot" width="45%"  height="550px" />
+ <img src="./src/Images/Screenshot-Details.png" alt="snapshot" width="45%"  height="550px" />
  </div>
   <img src="./src/Images/Screenshot-Detail-Desktop.png" alt="snapshot" width="95%"  height="500px" />
  
